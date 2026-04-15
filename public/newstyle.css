@@ -1,0 +1,27 @@
+.posting{
+    background-color: orange;
+    padding: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 10%;
+    border: 1px solid brown;
+    text-align: center;
+
+}
+
+.butt{
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+input{
+    border-radius: 5px;
+}
+
+textarea{
+    border-radius: 5px;
+}
+
+body{
+    background-color: azure;
+}

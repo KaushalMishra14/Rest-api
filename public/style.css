@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(33, 2, 2);
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.username{
+    color: blue;
+}
+
+.content{
+    color: maroon;
+}
+
+.posts{
+    background-color: aqua;
+    margin: 15px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.username, .content, .postdate{
+    margin: 15px;
+}
+
+.posts:hover{
+    margin: 10px;
+    transition: 1s;
+    background-color: aquamarine;
+}
+
+a{
+    color: azure;
+}
+
+button {
+    color: white; 
+    background-color: #007BFF; 
+    border: 1px solid black; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer; 
+    border-radius: 10px;
+    margin: 10px;
+}
+
+button:hover {
+    color: yellow;
+}
+
+
+.createnp{
+    color: blue;
+}
